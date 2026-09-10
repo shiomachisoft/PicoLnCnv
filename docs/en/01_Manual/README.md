@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Terms of Use](#terms-of-use)
+- [Disclaimer](#disclaimer)
 - [Overview](#overview)
   - [System Configuration](#system-configuration)
 - [Contents](#contents)
@@ -28,7 +28,7 @@
   - [Notes on BLE to UART Conversion](#notes-on-ble-to-uart-conversion)
 - [Checking Wi-Fi to UART Conversion in Wi-Fi Mode](#checking-wi-fi-to-uart-conversion-in-wi-fi-mode)
 
-## Terms of Use
+## Disclaimer
 
 Shiomachi Software (the creator) assumes no responsibility for any trouble, loss, or damage caused by the use of this software or by implementing the contents of this document.
 
