@@ -30,10 +30,7 @@
 
 ## Terms of Use
 
-When using PicoBrg, please be sure to check the [Shiomachi Software Terms of Use](https://sites.google.com/view/shiomachisoft/%E5%88%A9%E7%94%A8%E8%A6%8F%E7%B4%84).
-
-> **Disclaimer:**   
-> Shiomachi Software (the creator) assumes no responsibility for any trouble, loss, or damage caused by the use of this software or by implementing the contents of this document.
+Shiomachi Software (the creator) assumes no responsibility for any trouble, loss, or damage caused by the use of this software or by implementing the contents of this document.
 
 ## Overview
 

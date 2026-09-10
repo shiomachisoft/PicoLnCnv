@@ -43,6 +43,10 @@ Source code for both the firmware (FW) and the PC application is publicly availa
 - **Firmware**: Developed using the Arduino IDE.
 - **PC Application**: Developed in C# for Windows environments.
 
+## License
+The original code included in this repository is licensed under the MIT License.  
+Please note that the board package used, the Pico SDK itself, and all dependent software included in the SDK (such as libraries and firmware) are subject to their own respective licenses. Please check the details yourself.
+
 ---
 
 <a id="japanese"></a>
@@ -84,3 +88,7 @@ PicoBrgは、PCアプリによる「設定」と、実際の「ブリッジ通�
 ファームウェア（FW）とPCアプリの両方ともソースコードを公開しています。
 - **ファームウェア**: Arduino IDEで作成しています。
 - **PCアプリ**: C#で作成したWindows環境用アプリです。
+
+## ライセンス
+このプロジェクトのリポジトリに含まれる独自の実装部分は、MITライセンス の下で公開されています。  
+利用しているボードパッケージ、Pico SDK本体、およびSDKに含まれるすべての依存ソフトウェア（ライブラリやファームウェア等）には、それぞれ個別のライセンスが適用されるため、詳細はご自身でご確認ください。
